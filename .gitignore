@@ -4,7 +4,14 @@ __pycache__/
 *$py.class
 
 # Distribution / packaging
+embeddings/
+meta/
+predictions/
+results/
+templates/
+model/
 
+estimator.pickle
 
 # Jupyter Notebook
 .ipynb_checkpoints
